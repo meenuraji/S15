@@ -16,7 +16,7 @@ Used dialated convolutions in one of the convolution layer of downsampling block
 
 Foreground images
 
-![Image]()
+![Image](https://github.com/meenuraji/S15/blob/master/fgimg.png)
 
 background image
 
