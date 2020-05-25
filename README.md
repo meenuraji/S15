@@ -4,7 +4,7 @@ Tried to make a deep neural network which can predict depth map and mask for for
 
 100 foreground and 100 background images are used and 4,00,000 images are created
 
-![CODE]()
+![CODE](https://github.com/meenuraji/S15/blob/master/S15.ipynb)
 
 Few things I've learnt:
 
