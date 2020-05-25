@@ -6,6 +6,8 @@ Tried to make a deep neural network which can predict depth map and mask for for
 
 [CODE](https://github.com/meenuraji/S15/blob/master/S15.ipynb)
 
+[MODULARCODE](https://github.com/meenuraji/S15/blob/master/modular_code.ipynb)
+
 Few things I've learnt:
 
 1.Tt was tough to run the code because of heavy input and parameters. to overcome this issue transforms was used. and tried using the gray scale images
