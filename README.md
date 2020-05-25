@@ -24,7 +24,7 @@ Background image
 
 Depth images
 
-![Image]()
+![Image](https://github.com/meenuraji/S15/blob/master/depth.png)
 
 Mask images
 
