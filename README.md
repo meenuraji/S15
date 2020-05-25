@@ -30,9 +30,13 @@ Background image
 
 Depth images
 
-![Image](https://github.com/meenuraji/S15/blob/master/dep.png)
+![Image](https://github.com/meenuraji/S15/blob/master/dep1.png)
 
 Mask images
 
-![Image](https://github.com/meenuraji/S15/blob/master/overlaymask.png)
+![Image](https://github.com/meenuraji/S15/blob/master/mask1.png)
+
+fgbg images
+
+![Image](https://github.com/meenuraji/S15/blob/master/fgbg.png)
 
