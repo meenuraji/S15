@@ -18,15 +18,15 @@ Foreground images
 
 ![Image](https://github.com/meenuraji/S15/blob/master/fgimg.png)
 
-background image
+Background image
+
+![Image](https://github.com/meenuraji/S15/blob/master/bgimg.png)
+
+Depth images
 
 ![Image]()
 
-depth images
-
-![Image]()
-
-mask images
+Mask images
 
 ![Image]()
 
