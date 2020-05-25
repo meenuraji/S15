@@ -5,7 +5,7 @@ Original file is located at
     https://colab.research.google.com/drive/1aAmDlTSAc1ypmMIHgcHpYVlTSFQL3Dbo
 """
 
-from S15 import s15utils
+from S15 import utilis
 from torchvision import datasets
 from torch.utils.data import DataLoader, Dataset , random_split
 
